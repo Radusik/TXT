@@ -1,0 +1,7 @@
+skills:
+Terminal.Git Bash
+Git
+Postman
+JS
+Python
+SQL
