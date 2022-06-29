@@ -1,5 +1,5 @@
 Skills:
-Terminal, Git Bash[D[D[D[D[D[D[D.[C[C[C[C[C[C[C[C[C
+Terminal, Git Bash
 Git
 Postman
 JS
