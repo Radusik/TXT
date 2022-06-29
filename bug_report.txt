@@ -8,6 +8,7 @@ Sprint: S22
 Priority: Medium
 Severity: S3 Major
 Status: Open
+
 Description: Any participant of a group conversation shoud be able to renameit.The bug is produced only for the creator of a goup conversation.
 All other participants are able to rename the conversation.
 
